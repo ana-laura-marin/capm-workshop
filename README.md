@@ -1,4 +1,4 @@
-# CAPM Workshop — Costo de Capital con Python
+# CAPM Workshop: Costo de Capital con Python
 
 Estimación del costo de capital usando el modelo CAPM con datos reales de la Fed y Yahoo Finance.
 Diseñado como workshop universitario de 4 módulos.
