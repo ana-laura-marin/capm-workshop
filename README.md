@@ -10,6 +10,7 @@ Diseñado como workshop universitario de 4 módulos.
 3. **Todo reproducible con Python** — sin Excel, sin Bloomberg, con datos reales.
 
 ## Estructura
+```bash
 notebooks/
 ├── 01_tasa_libre_riesgo.ipynb # Módulo 1: Rf desde FRED
 ├── 02_prima_riesgo_mercado.ipynb # Módulo 2: Prima de riesgo del S&P 500
@@ -18,7 +19,7 @@ notebooks/
 src/
 ├── db_client.py # Conexión a DB de FRED
 └── yahoo_client.py # Descarga de precios
-
+```
 ## Fuentes de datos
 - **FRED API** — GS10 (tasa libre de riesgo)
 - **Yahoo Finance** — S&P 500 y precios de acciones
